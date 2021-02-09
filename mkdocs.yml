@@ -1,4 +1,4 @@
-site_name: BIRO Wiki?
+site_name: BIRO Wiki?！
 site_url:
 site_description:
 repo_url:
@@ -8,4 +8,5 @@ nav:
     - About: about.md
     - Product: NU80.md RMD X8.md
 
-#theme: readthedocs
+theme:
+  name: material
