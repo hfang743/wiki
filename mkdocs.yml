@@ -45,8 +45,8 @@ theme:
 nav:
     - Home: index.md
     - Product:
-        -  Omni-80-6-Alpha: products/NU80.md
-        -  Omni-80-6-Beta: products/RMD X8.md
-        -  Omni-80-6-Beta Pro: products/RMD X8 PRO.md
+        -  Omni-80-6-Alpha: products/Omni-80-6-Alpha.md
+        -  Omni-80-6-Beta: products/Omni-80-6-Beta.md
+        -  Omni-80-6-Beta Pro: products/Omni-80-6-Beta Pro.md
 
     - Links: link.md

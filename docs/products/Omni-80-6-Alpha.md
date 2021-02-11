@@ -1,5 +1,5 @@
 ## **Parameter Diagram (mm)**
-![mkdocs](../img/NU80.png)
+![mkdocs](../img/Omni-80-6-Alpha.png)
 ## **Parameters**
 | <div style="width: 180pt">**Working parameters at norminal voltage**</div> | <div style="width: 120pt"></div> |
 | :-- :| :--: |
@@ -54,5 +54,5 @@
 
 
 ## **3D model**
-[Download file](../download/QDD-NU80-6_v3_3.STEP)
+[Download file](../download/Omni-80-6-Alpha.STEP)
 
