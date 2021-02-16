@@ -2,7 +2,7 @@
 ## **Installation Drawing (mm)**
 ![mkdocs](../img/Omni-80-6-Beta.png)
 ## **Parameters**
-| <div style="width: 75pt">**Omni-80-6-Beta**</div> | <div style="width: 20pt"></div> | <div style="width: 150pt"></div> |
+| <div style="width: 80pt">**Omni-80-6-Beta**</div> | <div style="width: 20pt"></div> | <div style="width: 50pt"></div> |
 | :-- :| :--: | :--: |
 | Turns | T | 18 |
 | Norminal voltage | V | 48 |
