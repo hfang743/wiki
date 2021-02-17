@@ -1,4 +1,4 @@
-![img.png](../img/motor.png)
+![img.png](../img/motor.jpg)
 ## **Installation Drawing (mm)**
 ![mkdocs](../img/Omni-80-6-Beta.png)
 ## **Parameters**
