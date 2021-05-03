@@ -1,4 +1,4 @@
-![mkdocs](../img/Controller PCB.jpg)
+![mkdocs](../../img/Controller PCB.jpg)
 ## **Electronics Architecture**
-![mkdocs](../img/Electronics Architecture.png)
+![mkdocs](../../img/Electronics Architecture.png)
 ## **Specification**
