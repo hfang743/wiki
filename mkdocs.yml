@@ -55,5 +55,15 @@ nav:
         -  Sagittarius-80-36: products/Sagittarius-80-36.md
         -  Taurus-80-9: products/Taurus-80-9.md
         -  Taurus-100-9: products/Taurus-100-9.md
+    - Exo Tutorial:
+        - High level software:
+            - Matlab GUI: exo tutorial/High level software/Matlab GUI.md
+            - Manual: exo tutorial/High level software/Manual.md
+        - Low level C coding: exo tutorial/Low level C coding/Low level C coding.md
+        - Electronics:
+            - Controller PCB: exo tutorial/Electronics/Controller PCB.md
+            - Actuator: exo tutorial/Electronics/Actuator.md
+            - Loadcell: exo tutorial/Electronics/Loadcell.md
+            - IMU: exo tutorial/Electronics/IMU.md
 
     - Links: link.md
