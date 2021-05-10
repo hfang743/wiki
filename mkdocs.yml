@@ -57,7 +57,7 @@ nav:
         -  Taurus-100-9: products/Taurus-100-9.md
     - Exo Tutorial:
         - High level software:
-            - Matlab GUI: exo tutorial/High level software/Matlab GUI.md
+            - GUI: exo tutorial/High level software/GUI.md
             - Scripts: exo tutorial/High level software/Script.md
             - Manual: exo tutorial/High level software/Manual.md
         - Low level C coding: exo tutorial/Low level C coding/Low level C coding.md
